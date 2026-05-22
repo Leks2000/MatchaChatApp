@@ -1,0 +1,6 @@
+{
+  "name": "Matcha Chat",
+  "description": "Calm and premium Light Matcha styled AI Chat with custom Russian personalities and donation features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
