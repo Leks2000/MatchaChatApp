@@ -1,6 +1,6 @@
 {
-  "name": "Matcha Chat",
-  "description": "Calm and premium Light Matcha styled AI Chat with custom Russian personalities and donation features.",
+  "name": "Matcha Assistant",
+  "description": "A tranquil, AI-powered matcha wellness coach and companion app designed in eye-friendly matcha green tones, featuring wellness suggestions, chat companion, custom ratings, and interactive YooKassa client checkout.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

@@ -23,14 +23,6 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
-            <!-- Intent Filter to handle returning back from YooKassa Payment redirects -->
-            <intent-filter android:label="Matcha Pay Return">
-                <action android:name="android.intent.action.VIEW" />
-                <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="matchachat" android:host="payment-return" />
-            </intent-filter>
         </activity>
     </application>
 
